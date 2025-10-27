@@ -115,3 +115,8 @@ Contudo, para uso real, é essencial ampliar o dataset e aplicar técnicas de **
 - **Ambiente:** Google Collab
 
 ---
+
+## Como rodar o projeto?
+
+- Clone este repositorio na sua máquina e através do VSCode, com a extensão Jupyter Notebook, executeo o mesmo
+- Google Collab: Importe o notebook junto do arquivo CSV e altere o caminho_dados para 'content/fraud_detection_dataset.csv', para que ele reconheça o caminho necessario para localizar os dados e o arquivo
